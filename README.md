@@ -38,7 +38,7 @@ The Weather.js file shows the weather information that was received. It gets the
 # Screen output Toronto
 ![Image Alt](https://github.com/NutJaroensri/101422089_comp3123_labtest2/blob/ddde3466473d31d3702776406d4f0c8cd8c36c84/Toronto.PNG)
 # Screen output Edmonton
-![Image Alt](image_url)
-# Screen output Error
-![Image Alt](image_url)
+![Image Alt](https://github.com/NutJaroensri/101422089_comp3123_labtest2/blob/fd32f631f435b2e9e546d5192f3ab896a68c7659/Edmonton.PNG)
+# Screen output Not Found
+![Image Alt](https://github.com/NutJaroensri/101422089_comp3123_labtest2/blob/fd32f631f435b2e9e546d5192f3ab896a68c7659/NotFound.PNG)
 
