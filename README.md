@@ -34,3 +34,11 @@ The Search.js file has the input box where users can type the name of a city. It
 
 ### `Weather.js`
 The Weather.js file shows the weather information that was received. It gets the weather data and any error messages from App.js and display
+
+# Screen output Toronto
+![Image Alt](https://github.com/NutJaroensri/101422089_comp3123_labtest2/blob/ddde3466473d31d3702776406d4f0c8cd8c36c84/Toronto.PNG)
+# Screen output Edmonton
+![Image Alt](image_url)
+# Screen output Error
+![Image Alt](image_url)
+
